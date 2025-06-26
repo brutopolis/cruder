@@ -1,0 +1,10 @@
+main
+*.exe
+*.appimage
+.vscode
+valgrind-out.txt
+build/
+arduino/
+*.wasm
+*.so
+.bruter
